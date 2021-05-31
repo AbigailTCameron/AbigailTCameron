@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbigailTCameron
 - 👀 I’m interested in the use of technology in sustainability and innovation. 
-- 🌱 I’m currently learning Next.js & Node.js
+- 🌱 I’m currently learning the blockchain and its implementation in financial systems.
 - 💞️ I’m currently collaborating on Jamaica's first peer transaction app. 
 - 📫 How to reach me: abigailcameron.com 
 
