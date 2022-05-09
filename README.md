@@ -1,7 +1,7 @@
 - 👋🏾 Hi, I’m @AbigailTCameron
 - 👀 I’m interested in the use of technology in sustainability and innovation. 
 - 🌱 I’m currently learning the blockchain and its implementation in financial systems.
-- 💞️ I’m currently collaborating on Jamaica's first peer transaction app. 
+- 💞️ I’m currently collaborating with a DAO which operates on a popular network. 
 - 📫 How to reach me: abigailcameron.com 
 
 <!---
